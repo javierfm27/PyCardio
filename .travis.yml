@@ -2,4 +2,4 @@ language: python
 python:
   - "2.7"
   - "3.6.5"
-  
+after_success:  bash <(curl -s https://codecov.io/bash)
