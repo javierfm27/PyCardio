@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/javierfm27/PyCardio.png?branch=master)
+![Build status](https://travis-ci.com/javierfm27/PyCardio.svg?branch=master)
 # PyCardio
 Python module to perform Cardiac Signal Analysis, namely:
   * **ECG analysis**: QRS detection, RR-interval time series extraction, ECG complete delineation
