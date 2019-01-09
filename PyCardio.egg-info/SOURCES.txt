@@ -4,6 +4,7 @@ PyCardio/__init__.py
 PyCardio.egg-info/PKG-INFO
 PyCardio.egg-info/SOURCES.txt
 PyCardio.egg-info/dependency_links.txt
+PyCardio.egg-info/requires.txt
 PyCardio.egg-info/top_level.txt
 PyCardio/HRV/HRV.py
 PyCardio/HRV/__init__.py

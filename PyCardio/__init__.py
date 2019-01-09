@@ -1,2 +1,2 @@
-print("Se ha importado el paquete PyCardio")
-__all__=["HRV"]
+#IMPORTAMOS EL PAQUETE CARDIO DONDE PARA ELLO LE DIREMOS QUE TIENE QUE IMPORTAR EL MÓODULO HRV
+from .HRV import HRV

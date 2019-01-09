@@ -9,6 +9,7 @@ setuptools.setup(
     version="0.0.1",
     author="Oscar Barquero",
     author_email="oscar.barquero@urjc.es",
+    install_requires=["numpy","matplotlib","scipy"],
     description="Package for heart analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
