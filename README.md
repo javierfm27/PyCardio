@@ -1,4 +1,4 @@
-![Build status](https://travis-ci.com/javierfm27/PyCardio.svg?branch=master)
+![Build status](https://travis-ci.org/javierfm27/PyCardio.svg?branch=master)
 [![Documentation Status](https://readthedocs.org/projects/pycardio/badge/?version=latest)](https://pycardio.readthedocs.io/en/latest/?badge=latest)
 # PyCardio
 Python module to perform Cardiac Signal Analysis, namely:
