@@ -1,7 +1,7 @@
 
 import unittest
 
-from PyCardio.HRV.HRV import HRV
+from .PyCardio.HRV.HRV import HRV
 
 class TestPycardio(unittest.TestCase):
 
