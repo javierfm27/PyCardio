@@ -6,3 +6,6 @@ install:
   #-python setup.py install
 after_success:
     - bash <(curl -s https://codecov.io/bash)
+
+env:
+  - CODECOV_TOKEN="c9b6586e-5792-451d-9663-21e51b8225ce"
