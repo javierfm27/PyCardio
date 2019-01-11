@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/javierfm27/PyCardio.svg?branch=master)](https://travis-ci.org/javierfm27/PyCardio)
-as
 [![Documentation Status](https://readthedocs.org/projects/pycardio/badge/?version=latest)](https://pycardio.readthedocs.io/en/latest/?badge=latest)
 [![codecov](https://codecov.io/gh/javierfm27/PyCardio/branch/master/graph/badge.svg)](https://codecov.io/gh/javierfm27/PyCardio)
 # PyCardio
