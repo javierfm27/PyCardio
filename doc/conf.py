@@ -130,7 +130,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'PyCardio.tex', 'PyCardio Documentation',
-     'Óscar Barquero', 'manual'),
+     'Oscar Barquero', 'manual'),
 ]
 
 
