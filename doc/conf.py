@@ -20,8 +20,8 @@ sys.path.insert(0, os.path.abspath('../PyCardio'))
 # -- Project information -----------------------------------------------------
 
 project = 'PyCardio'
-copyright = '2019, Óscar Barquero'
-author = 'Óscar Barquero'
+copyright = '2019, Oscar Barquero'
+author = 'Oscar Barquero'
 
 # The short X.Y version
 version = ''
