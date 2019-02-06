@@ -20,12 +20,3 @@ Python module to perform Cardiac Signal Analysis, namely:
    :caption: Contents:
 
    HRV
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

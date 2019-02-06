@@ -20,9 +20,7 @@
 
 {%- macro relbar_top() %}
     <ul class="nav nav-pills pull-left">
-        {%- for link in theme_rootlinks %}
-        <li class="active"><a href="{{ link[0] }}">{{ link[1] }}</a></li>
-        {%- endfor %}
+        <li class="active"><a href="https://javierfm27.github.io/">PyCardio</a></li>
         {%- block rootrellink %}
 	{% if pagename != master_doc %}
         <li class="active"><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></li>
