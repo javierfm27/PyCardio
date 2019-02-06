@@ -6,6 +6,12 @@ PyCardio.egg-info/SOURCES.txt
 PyCardio.egg-info/dependency_links.txt
 PyCardio.egg-info/requires.txt
 PyCardio.egg-info/top_level.txt
+PyCardio/ECG/__init__.py
+PyCardio/ECG/qrs_detector.py
+PyCardio/HRT/HRT.py
+PyCardio/HRT/__init__.py
 PyCardio/HRV/HRV.py
 PyCardio/HRV/__init__.py
 PyCardio/HRV/read_data_hrv_anal.py
+PyCardio/ReadHolter/HolterData.py
+PyCardio/ReadHolter/__init__.py
