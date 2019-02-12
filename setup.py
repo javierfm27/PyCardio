@@ -3,13 +3,15 @@ import setuptools
 with open("README.md","r") as fh:
     long_description = fh.read()
 
+with open("requirements.txt","r") as fr:
+    requirements = fr.read().splitlines()
 
 setuptools.setup(
-    name="PyCardio",
-    version="0.0.1",
+    name="PyCardioTest",
+    version="0.0.4",
     author="Oscar Barquero",
     author_email="oscar.barquero@urjc.es",
-    install_requires=["numpy","matplotlib","scipy"],
+    install_requires= requirements,
     description="Package for heart analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -19,9 +21,5 @@ setuptools.setup(
         "Programming Language :: Python :: 3 ",
         "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
-        "Operating System :: OS Indepedent",
-        "Topic :: Scientific/Engineering :: Medical Science Apps",
-        "Topic :: Software Development :: Libraries :: Python Modules",
-        ""
     ]
 )

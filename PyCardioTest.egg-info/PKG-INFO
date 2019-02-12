@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: PyCardio
-Version: 0.0.1
+Name: PyCardioTest
+Version: 0.0.4
 Summary: Package for heart analysis
 Home-page: https://github.com/javierfm27/PyCardio
 Author: Oscar Barquero
