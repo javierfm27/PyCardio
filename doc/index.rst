@@ -20,3 +20,4 @@ Python module to perform Cardiac Signal Analysis, namely:
    :caption: Contents:
 
    HRV
+   HRT
