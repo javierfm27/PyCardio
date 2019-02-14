@@ -19,5 +19,7 @@ Python module to perform Cardiac Signal Analysis, namely:
    :maxdepth: 1
    :caption: Contents:
 
+   ECG
    HRV
    HRT
+   ReadHolter
