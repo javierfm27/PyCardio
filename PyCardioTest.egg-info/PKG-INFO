@@ -24,4 +24,6 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3 
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
 Description-Content-Type: text/markdown

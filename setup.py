@@ -23,7 +23,9 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers= [
         "Programming Language :: Python :: 3 ",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Apache Software License",
         "Natural Language :: English",
+        "License :: OSI Approved :: Apache Software License",
+        "Topic :: Scientific/Engineering :: Medical Science Apps.",
     ]
 )
