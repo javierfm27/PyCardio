@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PyCardioTest
-Version: 0.0.6
+Version: 0.0.7
 Summary: Package for heart analysis
 Home-page: https://github.com/javierfm27/PyCardio
 Author: Oscar Barquero
@@ -22,7 +22,7 @@ Description: # PyCardio
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3 
-Classifier: License :: OSI Approved :: MIT License
+Classifier: License :: OSI Approved :: Apache Software License
 Classifier: Natural Language :: English
 Classifier: License :: OSI Approved :: Apache Software License
 Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
